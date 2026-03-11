@@ -1,0 +1,4 @@
+[
+    (appid: "win11-clipboard-history", title: ".*", enabled: true),
+    (appid: "gnome-calculator", title: ".*", enabled: true)
+]
