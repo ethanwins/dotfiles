@@ -3,14 +3,14 @@
         red: 0.0,
         green: 0.0,
         blue: 0.003921569,
-        alpha: 1.0,
+        alpha: 0.3,
     ),
     component: (
         base: (
             red: 0.004075393,
             green: 0.009141197,
             blue: 0.029159913,
-            alpha: 1.0,
+            alpha: 0.6,
         ),
         hover: (
             red: 0.10366785,
