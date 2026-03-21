@@ -1,0 +1,21 @@
+Ben Mitchell (colortables.com)
+product:BR
+units: dBZ
+step: 5
+
+Color4: -10 0 0 0 0
+Color: 5 33 150 243
+Color: 10 3 96 244
+Color: 15 0 150 136
+Color: 20 76 175 80
+Color: 25 139 195 74
+Color: 30 205 220 57
+Color: 35 255 235 59
+Color: 40 255 193 7
+Color: 45 244 152 0
+Color: 50 244 67 54
+Color: 55 233 30 99
+Color: 60 156 39 176
+Color: 65 103 58 183
+Color: 70 0 0 0
+Color: 90 255 255 255
