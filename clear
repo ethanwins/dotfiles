@@ -1,0 +1,11 @@
+#!/bin/zsh
+
+cd /var/cache/pacman
+
+sudo rm -rf pkg
+
+sudo mkdir pkg 
+
+cd 
+
+exit
